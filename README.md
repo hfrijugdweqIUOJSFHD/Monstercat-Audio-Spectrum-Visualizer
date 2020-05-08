@@ -2,8 +2,8 @@
 <b>Attention: Due to the fact this is approaching 1 GB, no more music will be added. I may look into getting a domain but it is unlikely.</b>
 
 Viewing: 
-(Development) https://rawgit.com/TheNexusAvenger/Monstercat-Audio-Spectrum-Visualizer/master/index.html
-(Production) https://cdn.rawgit.com/TheNexusAvenger/Monstercat-Audio-Spectrum-Visualizer/master/index.html
+(Development) https://rawgit.com/hfrijugdweqIUOJSFHD/Monstercat-Audio-Spectrum-Visualizer/master/index.html
+(Production) https://cdn.rawgit.com/hfrijugdweqIUOJSFHDr/Monstercat-Audio-Spectrum-Visualizer/master/index.html
 <br>Additional parameters:
 <br>(? or &)song=Song Name
 <br>(? or &)artist=Artist Name
@@ -11,8 +11,8 @@ Viewing:
 <br>Ex: index.html?song=The Vine&artist=Tristam
 <br>
 Monstercat FM edition:
-<br>(Development) https://rawgit.com/TheNexusAvenger/Monstercat-Audio-Spectrum-Visualizer/master/monstercatfm.html
-<br>(Production) https://cdn.rawgit.com/TheNexusAvenger/Monstercat-Audio-Spectrum-Visualizer/master/monstercatfm.html
+<br>(Development) https://rawgit.com/hfrijugdweqIUOJSFHD/Monstercat-Audio-Spectrum-Visualizer/master/monstercatfm.html
+<br>(Production) https://cdn.rawgit.com/hfrijugdweqIUOJSFHD/Monstercat-Audio-Spectrum-Visualizer/master/monstercatfm.html
 <br><br><br>
 This is a complete redo of the modified version of [vis.j](https://github.com/TheNexusAvenger/vis.js), from the one by [caseif](https://github.com/caseif/vis.js). This fixes some of the key issues, such as the page having to refresh to work and being domain dependant, and adds features and other performance improvements, and scaling.
 
